@@ -1,31 +1,0 @@
-
-var ftGUID_4050628="4464F95258E751";
-var ftConfID_4050628="0";
-var ftParams_4050628="ft_section=23771317_267478556_462555418_128656484&ft_custom=267478556&imageType=gif&ftDestID=22886533&ft_width=1&ft_height=1&click=&ftOBA=1&ftExpTrack=&cachebuster=495632961";
-var ftKeyword_4050628="";
-var ftCustom_4050628="267478556";
-var ftSection_4050628="23771317_267478556_462555418_128656484";
-var ftSegment_4050628="";
-var ftSegmentList_4050628=[];
-var ftRuleMatch_4050628="0";
-var ftTimestamp_4050628="1584859505";
-var ftImp4050628 = {};
-ftImp4050628.privacy = "x";
-ftImp4050628.guidAge = "0";
-ftImp4050628.impID = "F4710619-8691-9A94-743B-6B8E1F647D9E";
-ftImp4050628.duid = "FT:4464F95258E751";
-
-ftImp4050628.ft_tpplid = "";
-ftImp4050628.ft_c = {};
-
-ftImp4050628.jsAppend = "1";
-(function(){
-    var tag = document.getElementById('ft_servedby_4050628') || (function(s){
-    	return s[s.length-1];
-    }(document.getElementsByTagName('script'))),
-           js = document.createElement('script');
-    js.src = 
-"https://cdn.flashtalking.com/xre/405/4050628/2863405/js/j-4050628-2863405.js";
-    js.id = "ftscript_m4050628";
-    tag.parentNode.insertBefore(js, tag);
-}());
